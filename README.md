@@ -43,7 +43,7 @@ After pressing play, your character will appear in the middle of the screen. The
     
 Obstacles will enter from the right hand side and exit from the left. But be aware, after a certain score, obstacles come in from both directions! Hitting a good obstacle will increase your score by 1, while hitting a bad obstacle will end the game. However, if you hit a power-up (which has a 1/100 chance of appearing in place of a good/bad obstacle), you will get a boost for a small period of time- make the most of it!
 
-So far, there is only 1 obstacle: the x2 Score Booster. When you hit it, all the points you get while the boost is active will be multiplied by 2. You can see the duration left on the boost in the bottom left-hand corner of the screen.
+So far, there is only 1 power-up: the x2 Score Booster. When you hit it, all the points you get while the boost is active will be multiplied by 2. You can see the duration left on the boost in the bottom left-hand corner of the screen.
 
 ### Shop
 
