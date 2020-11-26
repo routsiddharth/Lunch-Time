@@ -55,4 +55,4 @@ I am not a graphic designer, so I apologize if the game does not look that great
 
 ## Thank you!
 
-This game was the first medium-sized project that I made in Python, in March 2020, and I would appreciate it if you gave me some advice! Thank you so much if you decided to try my game out!
+This game was the first medium-sized project that I made in Python, and I would appreciate it if you gave me some advice! Thank you so much if you decided to try my game out!
