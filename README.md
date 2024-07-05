@@ -1,16 +1,6 @@
-## I'ts Lunch Time!
-
-Have you ever looked over at someone's pizza and discovered that they put **pineapple** on it? Pineaple never has, and never will, belong on pizza. Pineapple is **only a fruit**. Nevertheless, people continue to put pineapple on pizza. This game was created to tell people that pineapple should never come within 10m of a pizza.
-
 ## Running the Game
 
-This game was created in PyCharm, so if you use PyCharm as well, it should work perfectly. Make sure to download ALL THE FILES (except this README, that's optional) and run the game as you normally would a script in PyCharm.
-
-If you don't have PyCharm, get PyCharm. It is a great IDE with so many inbuilt features like code snippets, intuitive error handling, and if you want to download a package, just search it up within PyCharm and download it with just one click. If you do not want to download PyCharm, download all files except the venv (virtual environment) and make sure you have at least Python 3.6 (which you can download [here](https://www.python.org/downloads/)) along with PyGame 2.0.0 installed, which you can do using
-
-```zsh
-pip install pygame
-```
+This game was developed using PyCharm, so it should work as intended using most IDEs. 
 
 at the command line.
 
@@ -48,10 +38,6 @@ So far, there is only 1 power-up: the x2 Score Booster. When you hit it, all the
 ### Shop
 
 In the shop, you can buy three things: backgrounds, skins, and shields. Skins are what your player looks like while you are playing the game. Backgrounds are, well, backgrounds, but you can only upgrade them. If you choose to buy the next background, you cannot go back to your previous background. Shields are another power-up, but shields cannot be obtained in normal gameplay. You can buy a shield, and if you hit an obstacle while you have 1 or more shields, the game will not end, and you will instead lose a shield.
-
-## Designs
-
-I am not a graphic designer, so I apologize if the game does not look that great. All of the images for obstacles have been downloaded from Google Images. This game is not going to be used for any commercial purposes.
 
 ## Thank you!
 
